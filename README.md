@@ -16,10 +16,6 @@ A modern real-time chat application built using WebSockets.
 * Socket.IO
 * HTML, CSS, JavaScript
 
-## 📸 Preview
-
-(Add screenshots here)
-
 ## ▶️ Run Locally
 
 ```bash
